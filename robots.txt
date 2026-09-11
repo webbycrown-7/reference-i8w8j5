@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://webbycrown-7.github.io/reference-i8w8j5/sitemap.xml
